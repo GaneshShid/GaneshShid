@@ -20,7 +20,7 @@
 <p align="left">
   
   
-<a href="https://linkedin.com/in/ganesh shid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh shid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ganesh-shid-6b01081a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh shid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

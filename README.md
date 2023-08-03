@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **c#,asp.net,ado.net, .net core,entity framework, REST APi, javascript,React.js**
 
-- 💬 Ask me about **java ,React.js**
+- 💬 Ask me about **.net core ,REST API,React.js**
 
 - 📫 How to reach me **shidganesh0297@gmail.com**
 

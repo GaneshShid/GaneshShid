@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java,spring-boot, javascript,React.js**
+- 🌱 I’m currently learning **c#,asp.net,ado.net, .net core,entity framework, REST APi, javascript,React.js**
 
 - 💬 Ask me about **java ,React.js**
 

@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **.net core ,REST API,React.js**
 
-- 📫 How to reach me **shidganesh0297@gmail.com**
+- 📫 How to reach me **ganesh1shid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 

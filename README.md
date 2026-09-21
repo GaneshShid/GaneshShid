@@ -1,4 +1,3 @@
-![MasterHead](https://cdn-idnhn.nitrocdn.com/pGZJrsaaNAeqFgzcqIWGRFXLaVNbxMer/assets/images/optimized/rev-6ab5a0e/wp-content/uploads/2021/12/featured-Hire-A-Remote-Java-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Ganesh...!</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -7,7 +6,7 @@
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshshid&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshshid" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🌱 I’m currently learning **c#,asp.net,ado.net, .net core,entity framework, REST APi, javascript,React.js**
 
